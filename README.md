@@ -1,2 +1,2 @@
 # portfolio-site
-site for my personal portfolio
+Portfolio site containing an overview of my projects all in one spot
